@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260509134849NXQOQ8</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260509134849NQL4TI</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>FUTURE JOBS: WORK HARD, DREAM BIG</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Working for the future:  Are You Ready?</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María José Miró Rodríguez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El objetivo de esta unidad es que el alumno se familiarice con vocabulario, expresiones y fórmulas relacionadas con el mundo laboral en el idioma inglés. Igualmente se trabajarán aspectos del futuro y predicciones relacionas con los tipos de trabajos y el papel de la IA en ellos.
+Tareas: El alumno deberá realizar un email formal para solicitar un puesto de trabajo-cover letter ( trabajo individual) , que irá seguido de una “Mock job interview”, es decir una entrevista de trabajo que se realizará en parejas y donde el alumno podrá poner en práctica, de forma oral, lo aprendido durante la unidad.
+Producto Final: Como proyecto final el alumno creará un Portfolio Digital Interactivo titulado “Jobs in the Future” usando herramientas como Canva, Genially, Padlet o similar, y donde incluirá posibles trabajos en el futuro, relacionados con IA o Green Jobs, incluyendo los tipos de trabajo que imagina que habrá en 2050 y describiendo cuáles serán los requisitos para ellos.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778326188140</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moy9hwip-5ybpn4djf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LET&apos;S START</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LET&apos;S START</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LET&apos;S START</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>LET&apos;S START</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy9hwip-5ybpn4djf</odePageId>
+      <odeBlockId>block-1778014070217-2tiyv19uj</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy9hwip-5ybpn4djf</odePageId>
+          <odeBlockId>block-1778014070217-2tiyv19uj</odeBlockId>
+          <odeIdeviceId>idevice-1778014070211-oa8llfxoi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Working for the future:  Are You Ready?</strong></p>
+<p>The job market is changing rapidly due to technology and globalization. In the coming years, many traditional roles might disappear, while new ones related to Artificial Intelligence and sustainability will emerge. One of the biggest challenges you will face is "adaptability." It is no longer just about what you know, but how quickly you can learn new skills in an inclusive and digital environment.<br /></p>
+<p>Throughout this unit, we will explore these global challenges and prepare ourselves for an exciting professional future. To succeed, you need to master specific tools that showcase your talent. First, we will learn how to write a professional cover letter and a basic text to introduce yourselves. We will also build personal portfolios to highlight your achievements. Finally, we will practice mock interviews using AI simulators and oral techniques to improve your confidence . By the end of this module, you will have the essential skills to navigate the modern working world with success. Let’s start this journey together! </p>
+<figure class="exe-figure position-center" style="width: 322px;"><img src="{{context_path}}/content/resources/geralt-robot-10160833.jpg" title="By Gerd Altmann via Pixabay" width="322" height="480" alt="" />
+<figcaption class="figcaption"><a href="https://pixabay.com/es/users/geralt-9301/" class="author" target="_blank" rel="noopener">Gerd Altmann</a>. <a href="https://pixabay.com/es/illustrations/robot-androide-laboratorio-10160833/" class="title" target="_blank" rel="noopener"><em>By Gerd Altmann via Pixabay</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>                                                                                               </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778014070211-oa8llfxoi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Working for the future:  Are You Ready?</strong></p>\n<p>The job market is changing rapidly due to technology and globalization. In the coming years, many traditional roles might disappear, while new ones related to Artificial Intelligence and sustainability will emerge. One of the biggest challenges you will face is \"adaptability.\" It is no longer just about what you know, but how quickly you can learn new skills in an inclusive and digital environment.<br /></p>\n<p>Throughout this unit, we will explore these global challenges and prepare ourselves for an exciting professional future. To succeed, you need to master specific tools that showcase your talent. First, we will learn how to write a professional cover letter and a basic text to introduce yourselves. We will also build personal portfolios to highlight your achievements. Finally, we will practice mock interviews using AI simulators and oral techniques to improve your confidence . By the end of this module, you will have the essential skills to navigate the modern working world with success. Let’s start this journey together! </p>\n<figure class=\"exe-figure position-center\" style=\"width: 322px;\"><img src=\"{{context_path}}/content/resources/geralt-robot-10160833.jpg\" title=\"By Gerd Altmann via Pixabay\" width=\"322\" height=\"480\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/users/geralt-9301/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Gerd Altmann</a>. <a href=\"https://pixabay.com/es/illustrations/robot-androide-laboratorio-10160833/\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>By Gerd Altmann via Pixabay</em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>                                                                                               </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy9hwit-c6yllfegi</odePageId>
+  <odeParentPageId>page-moy9hwip-5ybpn4djf</odeParentPageId>
+  <pageName>CRONOLOGY- CRONOLOGIA DE LA UNIDAD</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRONOLOGY- CRONOLOGIA DE LA UNIDAD</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRONOLOGY- CRONOLOGIA DE LA UNIDAD</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CRONOLOGY- CRONOLOGIA DE LA UNIDAD</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy9hwit-c6yllfegi</odePageId>
+      <odeBlockId>block-1778088851345-uofvrtyms</odeBlockId>
+      <blockName>Aqui podéis ver lo que trataremos a lo largo de las 10 sesiones de la unidad.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy9hwit-c6yllfegi</odePageId>
+          <odeBlockId>block-1778088851345-uofvrtyms</odeBlockId>
+          <odeIdeviceId>idevice-1778088851344-gytzvebuw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/CRONOLOGIA CURSO.png" width="1217" height="690" alt="" /><br /></p>
+<p><a href="https://canva.link/2q636tq29l4y701" title="">Cronología Temporal de la Unidad</a>- Creado por María José Miró</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778088851344-gytzvebuw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/CRONOLOGIA CURSO.png\" width=\"1217\" height=\"690\" alt=\"\" /><br /></p>\n<p><a href=\"https://canva.link/2q636tq29l4y701\" title=\"\">Cronología Temporal de la Unidad</a>- Creado por María José Miró</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy9hwiu-sjxc2nzi8</odePageId>
+  <odeParentPageId>page-moy9hwip-5ybpn4djf</odeParentPageId>
+  <pageName>GUÍA DIDACTICA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDACTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDACTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy9hwiu-sjxc2nzi8</odePageId>
+      <odeBlockId>block-1778168353575-rdhf732yp</odeBlockId>
+      <blockName>A continuación os muestro los criterios de evaluación que están asociados a cada actividad que haremos a lo largo de la unidad y qué instrumentos utilizaremos para su calificación.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy9hwiu-sjxc2nzi8</odePageId>
+          <odeBlockId>block-1778168353575-rdhf732yp</odeBlockId>
+          <odeIdeviceId>idevice-1778168353565-mu4tjpxrt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Tareas.png" title="Criterios asociados a las actividades" width="948" height="565" alt="" /></p>
+<p></p>
+<p>A  continuación os añado las rúbricas para evaluar las tareas</p>
+<p><img src="{{context_path}}/content/resources/Rubrica de cover letter.png" width="951" height="410" alt="" /></p>
+<p>Y la lista de cotejo para el proyecto Final</p>
+<p><img src="{{context_path}}/content/resources/Checklist Portfolio.png" width="951" height="506" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778168353565-mu4tjpxrt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Tareas.png\" title=\"Criterios asociados a las actividades\" width=\"948\" height=\"565\" alt=\"\" /></p>\n<p></p>\n<p>A  continuación os añado las rúbricas para evaluar las tareas</p>\n<p><img src=\"{{context_path}}/content/resources/Rubrica de cover letter.png\" width=\"951\" height=\"410\" alt=\"\" /></p>\n<p>Y la lista de cotejo para el proyecto Final</p>\n<p><img src=\"{{context_path}}/content/resources/Checklist Portfolio.png\" width=\"951\" height=\"506\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy9hwiv-q9jpgbpmg</odePageId>
+  <odeParentPageId>page-moy9hwip-5ybpn4djf</odeParentPageId>
+  <pageName>TOOLS- herramientas para trabajar</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TOOLS- herramientas para trabajar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TOOLS- herramientas para trabajar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy9hwiv-q9jpgbpmg</odePageId>
+      <odeBlockId>block-1778089948656-gkvscu7lb</odeBlockId>
+      <blockName>¿Qué recursos y herramientas vamos a utilizar para nuestras tareas? Aqui tenéis las herramientas y webs que vamos a utilizar a lo largo de la unidad. Os dejo también los enlaces para que añadais material que resulte útil</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy9hwiv-q9jpgbpmg</odePageId>
+          <odeBlockId>block-1778089948656-gkvscu7lb</odeBlockId>
+          <odeIdeviceId>idevice-1778089948651-wn8ulidc7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/TOOLS.png" width="1895" height="858" alt="Padlet of the unit created B Maria José Miro" /></p>
+<p><a href="https://padlet.com/mmirrod240/unit-4-work-hard-6bcs86z8w1z76hwa" target="_blank" title="" rel="noopener">Padlet Creado para la unidad por Maria José Miró</a></p>
+<figure class="exe-figure position-center" style="width: 642px;"><img src="{{context_path}}/content/resources/Symbaloo.png" width="642" height="412" alt="" />
+<figcaption class="figcaption"><a href="https://maria-jose-miro-ingles.symbaloo.com/" class="author" target="_blank" rel="noopener">Symbaloo Creado por María José Miró</a>. <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778089948651-wn8ulidc7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/TOOLS.png\" width=\"1895\" height=\"858\" alt=\"Padlet of the unit created B Maria José Miro\" /></p>\n<p><a href=\"https://padlet.com/mmirrod240/unit-4-work-hard-6bcs86z8w1z76hwa\" target=\"_blank\" title=\"\" rel=\"noopener\">Padlet Creado para la unidad por Maria José Miró</a></p>\n<figure class=\"exe-figure position-center\" style=\"width: 642px;\"><img src=\"{{context_path}}/content/resources/Symbaloo.png\" width=\"642\" height=\"412\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://maria-jose-miro-ingles.symbaloo.com/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Symbaloo Creado por María José Miró</a>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy9hwiv-13d50sqyu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ACTIVIDADES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy9hwiv-13d50sqyu</odePageId>
+      <odeBlockId>block-1778172786410-klngzdomu</odeBlockId>
+      <blockName>WORK IN CLASS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy9hwiv-13d50sqyu</odePageId>
+          <odeBlockId>block-1778172786410-klngzdomu</odeBlockId>
+          <odeIdeviceId>idevice-1778172786407-813499tb2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación os añado las actividades que debéis hacer en esta unidad</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778172786407-813499tb2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación os añado las actividades que debéis hacer en esta unidad</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy9hwiw-6q37943wp</odePageId>
+  <odeParentPageId>page-moy9hwiv-13d50sqyu</odeParentPageId>
+  <pageName>Grammar</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Grammar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Grammar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy9hwiw-6q37943wp</odePageId>
+      <odeBlockId>block-1778171560552-dz9hkq5h2</odeBlockId>
+      <blockName>FUTURE FORMS IN ENGLISH</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy9hwiw-6q37943wp</odePageId>
+          <odeBlockId>block-1778171560552-dz9hkq5h2</odeBlockId>
+          <odeIdeviceId>idevice-1778171560546-qui2252zd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Look at the different types of future forms in English. </p>
+<p><img src="{{context_path}}/content/resources/Furture forms.png" width="642" height="519" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>Practice Exercises</strong><br />Exercise  1. Choose the correct option (Multiple Choice)</p>
+<p>Look at those clouds! It (will / is going to) rain.<br />I (am flying / fly) to London tomorrow; I have the tickets!<br />The film (starts / is starting) at 9:00 PM tonight.<br />I'm tired. I think I (will go / am going to go) to sleep.<br />In 2050, people (will be able to / are able to) live on Mars.<br />To get the job, you (will have to / will able to) speak English.<br /></p>
+<p></p>
+<p>Exercise 2. Fill in the blanks (Mixed Futures)</p>
+<p>I _________ (travel) to Japan next summer. (Plan)<br />Wait! I _________ (help) you with those bags. (Decision)<br />The bus _________ (arrive) at 10:15 AM. (Timetable)<br />We _________ (have) dinner with Ben tonight. (Arrangement)<br />You _________ (need) a passport for the trip. (Obligation)<br />Humans _________ (not / be able to) breathe underwater. (Ability)</p>
+<p><br />Exercise 3. Sentence Transformation (Rewrite)</p>
+<p>It is my intention to learn French. (Use going to)<br />The plane departure is at 5:00 PM. (Use Present Simple)<br />I promise to call you later. (Use will)<br />It’s necessary for him to work tomorrow. (Use will have to)<br />A meeting with the doctor is set for Monday. (Use Present Continuous)<br />Is it possible for her to drive next year? (Use will be able to)<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778171560546-qui2252zd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Look at the different types of future forms in English. </p>\n<p><img src=\"{{context_path}}/content/resources/Furture forms.png\" width=\"642\" height=\"519\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><strong>Practice Exercises</strong><br />Exercise  1. Choose the correct option (Multiple Choice)</p>\n<p>Look at those clouds! It (will / is going to) rain.<br />I (am flying / fly) to London tomorrow; I have the tickets!<br />The film (starts / is starting) at 9:00 PM tonight.<br />I'm tired. I think I (will go / am going to go) to sleep.<br />In 2050, people (will be able to / are able to) live on Mars.<br />To get the job, you (will have to / will able to) speak English.<br /></p>\n<p></p>\n<p>Exercise 2. Fill in the blanks (Mixed Futures)</p>\n<p>I _________ (travel) to Japan next summer. (Plan)<br />Wait! I _________ (help) you with those bags. (Decision)<br />The bus _________ (arrive) at 10:15 AM. (Timetable)<br />We _________ (have) dinner with Ben tonight. (Arrangement)<br />You _________ (need) a passport for the trip. (Obligation)<br />Humans _________ (not / be able to) breathe underwater. (Ability)</p>\n<p><br />Exercise 3. Sentence Transformation (Rewrite)</p>\n<p>It is my intention to learn French. (Use going to)<br />The plane departure is at 5:00 PM. (Use Present Simple)<br />I promise to call you later. (Use will)<br />It’s necessary for him to work tomorrow. (Use will have to)<br />A meeting with the doctor is set for Monday. (Use Present Continuous)<br />Is it possible for her to drive next year? (Use will be able to)<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy9hwix-5ynsg5ngu</odePageId>
+  <odeParentPageId>page-moy9hwiv-13d50sqyu</odeParentPageId>
+  <pageName>Vocabulary for jobs</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vocabulary for jobs</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vocabulary for jobs</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy9hwix-5ynsg5ngu</odePageId>
+      <odeBlockId>block-1778172462124-qsptu7prn</odeBlockId>
+      <blockName>JOB VOCABULARY</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy9hwix-5ynsg5ngu</odePageId>
+          <odeBlockId>block-1778172462124-qsptu7prn</odeBlockId>
+          <odeIdeviceId>idevice-1778172462122-gf2r14cl5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>Job definitions</strong></p>
+<p style="text-align: left;"><strong>Colleague </strong># The person you work with</p>
+<p style="text-align: left;"><strong>Deadline </strong># The final date or time to complete a task</p>
+<p style="text-align: left;"><strong>Manager </strong># The person who leads a team or department</p>
+<p style="text-align: left;"><strong>Salary</strong> # The money a worker receives for their job</p>
+<p style="text-align: left;"><strong>Meeting </strong># A planned gathering where people discuss work</p>
+<p style="text-align: left;"><strong>Promotion </strong># A move to a higher position at work</p>
+<p style="text-align: left;"><strong>Shift</strong> # The period of time a person works during the day or night</p>
+<p style="text-align: left;"><strong>Interview </strong># A formal conversation to evaluate a candidate for a job</p>
+<p style="text-align: left;"><strong>Coworker </strong># A person who works at the same company as you</p>
+<p style="text-align: left;"><strong>Resignation </strong># The act of leaving a job officially</p>
+<p style="text-align: left;"><br /></p>
+<p style="text-align: left;"></p>
+<p><strong>ACTIVITY 1 – COMPLETE THE SENTENCES</strong></p>
+<p>Complete each sentence with the correct word from the box.</p>
+<p>Colleague – Deadline – Manager – Salary – Meeting</p>
+<p>My __________ asked me to finish the report today.</p>
+<p>We have an important __________ at 10 a.m.</p>
+<p>The project __________ is next Friday.</p>
+<p>A __________ is someone you work with every day.</p>
+<p>Her monthly __________ is very good for her age.</p>
+<p><strong>ACTIVITY 2 – CHOOSE THE CORRECT WORD</strong></p>
+<p>Choose the correct vocabulary word to complete each sentence.</p>
+<p>I work at night, so I have a night __________.<br />(shift / interview)</p>
+<p>The company offered her a __________ after two years.<br />(promotion / resignation)</p>
+<p>Tomorrow I have a job __________ at a big company.<br />(interview / salary)</p>
+<p>My best __________ helps me with difficult tasks at work.<br />(coworker / deadline)</p>
+<p>After many years at the company, he decided to send his __________.<br />(resignation / meeting)</p>
+<p><strong>ACTIVITY 3 – MATCH THE SENTENCE WITH THE CORRECT WORD</strong></p>
+<p>Write the correct vocabulary word for each definition.</p>
+<p>A person who supervises workers and gives instructions. → __________</p>
+<p>The money you earn from your job. → __________</p>
+<p>A conversation to get a job. → __________</p>
+<p>The time limit to finish a task. → __________</p>
+<p>A better position at work with more responsibility. → __________</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778172462122-gf2r14cl5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>Job definitions</strong></p>\n<p style=\"text-align: left;\"><strong>Colleague </strong># The person you work with</p>\n<p style=\"text-align: left;\"><strong>Deadline </strong># The final date or time to complete a task</p>\n<p style=\"text-align: left;\"><strong>Manager </strong># The person who leads a team or department</p>\n<p style=\"text-align: left;\"><strong>Salary</strong> # The money a worker receives for their job</p>\n<p style=\"text-align: left;\"><strong>Meeting </strong># A planned gathering where people discuss work</p>\n<p style=\"text-align: left;\"><strong>Promotion </strong># A move to a higher position at work</p>\n<p style=\"text-align: left;\"><strong>Shift</strong> # The period of time a person works during the day or night</p>\n<p style=\"text-align: left;\"><strong>Interview </strong># A formal conversation to evaluate a candidate for a job</p>\n<p style=\"text-align: left;\"><strong>Coworker </strong># A person who works at the same company as you</p>\n<p style=\"text-align: left;\"><strong>Resignation </strong># The act of leaving a job officially</p>\n<p style=\"text-align: left;\"><br /></p>\n<p style=\"text-align: left;\"></p>\n<p><strong>ACTIVITY 1 – COMPLETE THE SENTENCES</strong></p>\n<p>Complete each sentence with the correct word from the box.</p>\n<p>Colleague – Deadline – Manager – Salary – Meeting</p>\n<p>My __________ asked me to finish the report today.</p>\n<p>We have an important __________ at 10 a.m.</p>\n<p>The project __________ is next Friday.</p>\n<p>A __________ is someone you work with every day.</p>\n<p>Her monthly __________ is very good for her age.</p>\n<p><strong>ACTIVITY 2 – CHOOSE THE CORRECT WORD</strong></p>\n<p>Choose the correct vocabulary word to complete each sentence.</p>\n<p>I work at night, so I have a night __________.<br />(shift / interview)</p>\n<p>The company offered her a __________ after two years.<br />(promotion / resignation)</p>\n<p>Tomorrow I have a job __________ at a big company.<br />(interview / salary)</p>\n<p>My best __________ helps me with difficult tasks at work.<br />(coworker / deadline)</p>\n<p>After many years at the company, he decided to send his __________.<br />(resignation / meeting)</p>\n<p><strong>ACTIVITY 3 – MATCH THE SENTENCE WITH THE CORRECT WORD</strong></p>\n<p>Write the correct vocabulary word for each definition.</p>\n<p>A person who supervises workers and gives instructions. → __________</p>\n<p>The money you earn from your job. → __________</p>\n<p>A conversation to get a job. → __________</p>\n<p>The time limit to finish a task. → __________</p>\n<p>A better position at work with more responsibility. → __________</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy9hwiy-jvetp8rx7</odePageId>
+  <odeParentPageId>page-moy9hwiv-13d50sqyu</odeParentPageId>
+  <pageName>Writing: A cover Letter</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Writing: A cover Letter</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Writing: A cover Letter</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy9hwiy-jvetp8rx7</odePageId>
+      <odeBlockId>block-1778172952381-qmgxfuuy7</odeBlockId>
+      <blockName>HOW TO WRITE A COVER LETTER</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy9hwiy-jvetp8rx7</odePageId>
+          <odeBlockId>block-1778172952381-qmgxfuuy7</odeBlockId>
+          <odeIdeviceId>idevice-1778172952376-izt6idtdk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A Cover Letter (or covering letter) is a document sent with your CV to introduce yourself and explain why you are the best candidate for a job. At your level, focus on clear, formal communication .</p>
+<p><strong>Structure:</strong></p>
+<p>Greeting: Dear Hiring Manager / Dear Mr./Ms. [Surname].<br />Opening: State the position you are applying for.<br />Body: Highlight 2-3 skills and your motivation [4].<br />Closing: Express interest in an interview.<br />Sign-off: Yours sincerely (if you know the name) or Yours faithfully.<br />Example:</p>
+<p>Dear Ms. Smith,</p>
+<p>I am writing to apply for the Receptionist position. I have a B1 level of English and two years of experience in customer service. I am hardworking and enjoy working in teams.</p>
+<p>I would like to have the opportunity of having a personal interview.</p>
+<p>I look forward to hearing from you.</p>
+<p>Yours sincerely,</p>
+<p>[Your Name].</p>
+<p> <br />Exercises:</p>
+<p>Fill in the blanks: Complete the sentence: "I am writing to _______ for the position of Sales Assistant because I have relevant _______."<br /></p>
+<p>Writing: Write a short (50-80 words) cover letter for a "Summer Camp Monitor" job using the structure above</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778172952376-izt6idtdk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A Cover Letter (or covering letter) is a document sent with your CV to introduce yourself and explain why you are the best candidate for a job. At your level, focus on clear, formal communication .</p>\n<p><strong>Structure:</strong></p>\n<p>Greeting: Dear Hiring Manager / Dear Mr./Ms. [Surname].<br />Opening: State the position you are applying for.<br />Body: Highlight 2-3 skills and your motivation [4].<br />Closing: Express interest in an interview.<br />Sign-off: Yours sincerely (if you know the name) or Yours faithfully.<br />Example:</p>\n<p>Dear Ms. Smith,</p>\n<p>I am writing to apply for the Receptionist position. I have a B1 level of English and two years of experience in customer service. I am hardworking and enjoy working in teams.</p>\n<p>I would like to have the opportunity of having a personal interview.</p>\n<p>I look forward to hearing from you.</p>\n<p>Yours sincerely,</p>\n<p>[Your Name].</p>\n<p> <br />Exercises:</p>\n<p>Fill in the blanks: Complete the sentence: \"I am writing to _______ for the position of Sales Assistant because I have relevant _______.\"<br /></p>\n<p>Writing: Write a short (50-80 words) cover letter for a \"Summer Camp Monitor\" job using the structure above</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy9hwiz-ku6e6oemw</odePageId>
+  <odeParentPageId>page-moy9hwiv-13d50sqyu</odeParentPageId>
+  <pageName>Oral production: A job interview</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Oral production: A job interview</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Oral production: A job interview</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy9hwiz-ku6e6oemw</odePageId>
+      <odeBlockId>block-1778173118828-dx21h5swu</odeBlockId>
+      <blockName>Job Interview</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy9hwiz-ku6e6oemw</odePageId>
+          <odeBlockId>block-1778173118828-dx21h5swu</odeBlockId>
+          <odeIdeviceId>idevice-1778173118826-mb3n4cvpt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Look at the following video and answer the questions</p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;"><iframe width="300" height="150" src="https://www.youtube.com/embed/Rdi-SNhe2v4" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/@BriyaClasses" target="_blank" class="author" rel="noopener">Briya Classes</a>. <a href="https://www.youtube.com/watch?v=Rdi-SNhe2v4" target="_blank" class="title" rel="noopener"><em>Job Interview (Good Example) </em></a> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Answer the following questions<a href="https://docs.google.com/forms/d/e/1FAIpQLSfJLii05p_sXxOHn4YGAZ7zQ19BFa5a1-SadN-Xh_jfqpvZug/viewform?usp=sharing&ouid=100758870944265941931" target="_blank" rel="noopener" title="">Formulario de Comprensión del video</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778173118826-mb3n4cvpt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Look at the following video and answer the questions</p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/Rdi-SNhe2v4\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@BriyaClasses\" target=\"_blank\" class=\"author\" rel=\"noopener\">Briya Classes</a>. <a href=\"https://www.youtube.com/watch?v=Rdi-SNhe2v4\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>Job Interview (Good Example) </em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Answer the following questions<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfJLii05p_sXxOHn4YGAZ7zQ19BFa5a1-SadN-Xh_jfqpvZug/viewform?usp=sharing&ouid=100758870944265941931\" target=\"_blank\" rel=\"noopener\" title=\"\">Formulario de Comprensión del video</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy9hwiz-b0ljrytue</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROYECTO FINAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROYECTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROYECTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy9hwiz-b0ljrytue</odePageId>
+      <odeBlockId>block-1778169255095-4xnne9q8k</odeBlockId>
+      <blockName>DESCRIPCIÓN DE LA TAREA FINAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy9hwiz-b0ljrytue</odePageId>
+          <odeBlockId>block-1778169255095-4xnne9q8k</odeBlockId>
+          <odeIdeviceId>idevice-1778169255089-934ycrdhi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Hi everyone,</p>
+<p>En esta tarea debéis crear un portfolio digital usando Genially en el que incluiréis:</p>
+<p>1. Los requisitos y modelos para realizar un CV/ resumé,</p>
+<p>2. Modelo de carta de Presentación,</p>
+<p>3. Video sobre una entrevista de trabajo. </p>
+<p>Os añado un video para que aprendáis la diferencia entre CV, Resumé and Portfolio </p>
+<p></p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;" id="fig_8ycmrr042"><iframe width="560" height="314" src="https://www.youtube.com/embed/BbFAQTeDXnY?t=24s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/@freesumes" target="_blank" class="author" rel="noopener">@freesumes</a>. <a href="https://www.youtube.com/watch?v=BbFAQTeDXnY&t=24s" target="_blank" class="title" rel="noopener"><em>Resume vs CV vs Portfolio: What are the Differences?</em></a> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p>A la hora de realizar el portfolio no olvidéis las siguientes recomendaciones</p>
+<p><img src="{{context_path}}/content/resources/Colorful Modern Travel Tips Infographic (Infographics).png" width="943" height="2000" alt="" /><br /></p>
+<p><a href="https://canva.link/tim4na6vcbs2p7d" title="">Creado por María José Miró</a></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778169255089-934ycrdhi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hi everyone,</p>\n<p>En esta tarea debéis crear un portfolio digital usando Genially en el que incluiréis:</p>\n<p>1. Los requisitos y modelos para realizar un CV/ resumé,</p>\n<p>2. Modelo de carta de Presentación,</p>\n<p>3. Video sobre una entrevista de trabajo. </p>\n<p>Os añado un video para que aprendáis la diferencia entre CV, Resumé and Portfolio </p>\n<p></p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\" id=\"fig_8ycmrr042\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/BbFAQTeDXnY?t=24s\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@freesumes\" target=\"_blank\" class=\"author\" rel=\"noopener\">@freesumes</a>. <a href=\"https://www.youtube.com/watch?v=BbFAQTeDXnY&t=24s\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>Resume vs CV vs Portfolio: What are the Differences?</em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p>A la hora de realizar el portfolio no olvidéis las siguientes recomendaciones</p>\n<p><img src=\"{{context_path}}/content/resources/Colorful Modern Travel Tips Infographic (Infographics).png\" width=\"943\" height=\"2000\" alt=\"\" /><br /></p>\n<p><a href=\"https://canva.link/tim4na6vcbs2p7d\" title=\"\">Creado por María José Miró</a></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy9hwj1-2mesuyp1c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy9hwj1-2mesuyp1c</odePageId>
+      <odeBlockId>block-1778170741197-q803y3f9x</odeBlockId>
+      <blockName>CRÉDITOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy9hwj1-2mesuyp1c</odePageId>
+          <odeBlockId>block-1778170741197-q803y3f9x</odeBlockId>
+          <odeIdeviceId>idevice-1778170741195-hkydsqxvg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Nodo Final:</strong> Créditos y Recursos del Proyecto<br />Título del Recurso: WORK HARD, DREAM BIG- JOBS IN THE FUTURE.<br />Nivel Educativo: 4º de ESO - Inglés.<br />Descripción: Secuencia didáctica para que el alumno se familiarice con vocabulario, expresiones y fórmulas relacionadas con el mundo laboral en el idioma inglés. Igualmente se trabajarán aspectos del futuro y predicciones relacionas con los tipos de trabajos y el papel de la IA en ellos.<br /> <br />👤 <strong>Autoría</strong> <br />Autor/a: María José Miró Rodríguez<br />Centro Educativo: IES Guadalmedina (Málaga)<br />Año de creación: 2026<br />Herramientas utilizadas: Padlet, Symbaloo, Genially y Canva.</p>
+<p>Imágenes de Pixabay<br /> <br />🔓 Licencia de Uso<br />Este material educativo se publica bajo la licencia:</p>
+<p>Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).</p>
+<p>Lo que esto significa: Puedes copiar, distribuir y modificar este material libremente, siempre que menciones la autoría original, no lo uses con fines comerciales y compartas tus versiones derivadas bajo esta misma licencia.<br /> <br />📩 Contacto<br />Email: mmirrod240@g.educaand.es<br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778170741195-hkydsqxvg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Nodo Final:</strong> Créditos y Recursos del Proyecto<br />Título del Recurso: WORK HARD, DREAM BIG- JOBS IN THE FUTURE.<br />Nivel Educativo: 4º de ESO - Inglés.<br />Descripción: Secuencia didáctica para que el alumno se familiarice con vocabulario, expresiones y fórmulas relacionadas con el mundo laboral en el idioma inglés. Igualmente se trabajarán aspectos del futuro y predicciones relacionas con los tipos de trabajos y el papel de la IA en ellos.<br /> <br />👤 <strong>Autoría</strong> <br />Autor/a: María José Miró Rodríguez<br />Centro Educativo: IES Guadalmedina (Málaga)<br />Año de creación: 2026<br />Herramientas utilizadas: Padlet, Symbaloo, Genially y Canva.</p>\n<p>Imágenes de Pixabay<br /> <br />🔓 Licencia de Uso<br />Este material educativo se publica bajo la licencia:</p>\n<p>Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).</p>\n<p>Lo que esto significa: Puedes copiar, distribuir y modificar este material libremente, siempre que menciones la autoría original, no lo uses con fines comerciales y compartas tus versiones derivadas bajo esta misma licencia.<br /> <br />📩 Contacto<br />Email: mmirrod240@g.educaand.es<br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moy9hwj1-2mesuyp1c</odePageId>
+      <odeBlockId>block-1778175232957-cux98xm4r</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy9hwj1-2mesuyp1c</odePageId>
+          <odeBlockId>block-1778175232957-cux98xm4r</odeBlockId>
+          <odeIdeviceId>idevice-1778175232954-p5vda12tw</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">FUTURE JOBS: WORK HARD, DREAM BIG</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">El objetivo de esta unidad es que el alumno se familiarice con vocabulario, expresiones y fórmulas relacionadas con el mundo laboral en el idioma inglés. Igualmente se trabajarán aspectos del futuro y predicciones relacionas con los tipos de trabajos y el papel de la IA en ellos.
+Tareas: El alumno deberá realizar un email formal para solicitar un puesto de trabajo-cover letter ( trabajo individual) , que irá seguido de una “Mock job interview”, es decir una entrevista de trabajo que se realizará en parejas y donde el alumno podrá poner en práctica, de forma oral, lo aprendido durante la unidad.
+Producto Final: Como proyecto final el alumno creará un Portfolio Digital Interactivo titulado “Jobs in the Future” usando herramientas como Canva, Genially, Padlet o similar, y donde incluirá posibles trabajos en el futuro, relacionados con IA o Green Jobs, incluyendo los tipos de trabajo que imagina que habrá en 2050 y describiendo cuáles serán los requisitos para ellos.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">María José Miró Rodríguez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
